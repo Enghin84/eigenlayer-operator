@@ -1,12 +1,12 @@
 operator:
-    address: 0xE26Cff0193cB57d532fB8Fe9770d903f29d8496D
+    address: 0x1272B804d1F514eB3a9f98c4944f96541b10FC46
     delegation_approver_address: "0x0000000000000000000000000000000000000000"
     staker_opt_out_window_blocks: 0
     metadata_url: "https://raw.githubusercontent.com/Enghin84/eigenlayer-operator/refs/heads/main/metadata.json"
 el_delegation_manager_address: 0xA44151489861Fe9e3055d95adC98FbD462B948e7
 eth_rpc_url: https://eth-holesky.g.alchemy.com/v2/8GnMg0hyh5le8qohyz1WMye2pUWHhSsB
 chain_id: 17000
-private_key_store_path: /Users/enghinomer/.eigenlayer/operator_keys/test2.ecdsa.key.json
+private_key_store_path: /Users/enghinomer/.eigenlayer/operator_keys/test3.ecdsa.key.json
 signer_type: local_keystore
 fireblocks:
     api_key: ""
